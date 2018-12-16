@@ -30,13 +30,13 @@
 <kbd><img src="docs/mpdone.png" width="500"></kbd>
 
 ### Enter your own words screen
-<kbd><img src="docs/enteryourownwords.png" width="500"></kbd>
+<kbd><img src="docs/enterownwords.png" width="500"></kbd>
 
 ### Error: Enter a number between 2 - 4
 <kbd><img src="docs/errornumber.png" width="500"></kbd>
 
 ### Error: Enter a number when choosing multiplayer
-<kbd><img src="docs/errorplayer.png" width="500"></kbd>
+<kbd><img src="docs/errorplayers.png" width="500"></kbd>
 
 ### Error: You can't play with your own words against yourself
 <kbd><img src="docs/erroryourself.png" width="500"></kbd>
