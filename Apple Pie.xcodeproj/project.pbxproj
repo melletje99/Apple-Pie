@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A92B14C221BE5AB3002D8CC3 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92B14C121BE5AB3002D8CC3 /* StartViewController.swift */; };
+		A92B14C421BE6105002D8CC3 /* WordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92B14C321BE6105002D8CC3 /* WordsViewController.swift */; };
 		A94CB2A621948E8900A2E855 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94CB2A521948E8900A2E855 /* AppDelegate.swift */; };
 		A94CB2A821948E8A00A2E855 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94CB2A721948E8A00A2E855 /* ViewController.swift */; };
 		A94CB2AB21948E8A00A2E855 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A94CB2A921948E8A00A2E855 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A92B14C121BE5AB3002D8CC3 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		A92B14C321BE6105002D8CC3 /* WordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsViewController.swift; sourceTree = "<group>"; };
 		A94CB2A221948E8900A2E855 /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A94CB2A521948E8900A2E855 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A94CB2A721948E8A00A2E855 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				A94CB2A521948E8900A2E855 /* AppDelegate.swift */,
 				A94CB2A721948E8A00A2E855 /* ViewController.swift */,
 				A94CB2A921948E8A00A2E855 /* Main.storyboard */,
+				A92B14C321BE6105002D8CC3 /* WordsViewController.swift */,
+				A92B14C121BE5AB3002D8CC3 /* StartViewController.swift */,
 				A94CB2B72194952100A2E855 /* File.swift */,
 				A94CB2AC21948E8A00A2E855 /* Assets.xcassets */,
 				A94CB2AE21948E8A00A2E855 /* LaunchScreen.storyboard */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A94CB2A821948E8A00A2E855 /* ViewController.swift in Sources */,
+				A92B14C221BE5AB3002D8CC3 /* StartViewController.swift in Sources */,
+				A92B14C421BE6105002D8CC3 /* WordsViewController.swift in Sources */,
 				A94CB2B82194952100A2E855 /* File.swift in Sources */,
 				A94CB2A621948E8900A2E855 /* AppDelegate.swift in Sources */,
 			);
